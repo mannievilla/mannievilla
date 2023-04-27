@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on completing the CodeUp course in Data Science. I have taken other courses in the past I am happy that I was able to start this journey.
+`#ffffff` I'm currently working on completing the CodeUp course in Data Science. 
+`#ffffff` I have taken other courses online.
+😄 I am happy that I was able to start this journey.
+⚡ I plan to continue learning Data Science.
