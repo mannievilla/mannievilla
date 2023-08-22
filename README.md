@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hello, data enthusiasts and fellow beach lovers! I'm [Your Name], a passionate data scientist who finds inspiration in the soothing embrace of the beach. There's nothing quite like a long walk on the shoreline to clear the mind and spark new ideas.
+Hello, data enthusiasts and fellow beach lovers! I'm Emanuel Villa, a passionate data scientist who finds inspiration in the soothing embrace of the beach. There's nothing quite like a long walk on the shoreline to clear the mind and spark new ideas.
 
 ## 🏖️ My Happy Place
 
@@ -36,7 +36,7 @@ Feel free to wander through more of my projects below. Each one is a unique jour
 
 I'm always eager to connect with fellow data enthusiasts, beach aficionados, or anyone who's passionate about both. Whether it's discussing data trends or sharing beach stories, I'm just a message away.
 
-- 📧 Email: [Your Email](mailto:mannievilla@gmail.com)
+- 📧 Email: [mannievilla@gmail.com](mailto:mannievilla@gmail.com)
 
 Let's embark on a data-driven adventure together, one beach walk at a time! 📈🌊
 
