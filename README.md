@@ -18,11 +18,11 @@ When I'm not diving deep into data, you'll often find me strolling along the bea
 
 Explore my portfolio of data science projects, where I blend analytical rigor with a love for the beach:
 
-### Project 1: [Project Name 1](link-to-project-1)
+### Project 1: [Top All Time Video Games](link-to-project-1)
 
-- Dive into the details of Project 1.
-- What drove my curiosity and interest.
-- Key insights and takeaways.
+- I developed a model that predicts if a video game is in IGN's Top 500 Games of All Time list using factors like sales, meta scores, user reviews, and engineered features.
+- The model uses game data like regional sales, meta score, user review score, genre, and more to predict if it's on IGN's Top 500 Games of All Time list, simplifying the identification of top-ranked games.
+- The goal was to build a model predicting if a video game is on IGN's Top 500 Games list, offering gamers an efficient way to identify prestigious titles.
 
 ### Project 2: [Project Name 2](link-to-project-2)
 
